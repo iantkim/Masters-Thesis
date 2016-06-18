@@ -1,4 +1,4 @@
-# Masters-thesis
+# Abstract
 
 <br /> In contrast to appetitive studies, motivation in the aversive domain has not
 <br /> been given much attention. Utilizing the Pavlovian to instrumental transfer (PIT) 
