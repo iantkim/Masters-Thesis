@@ -1,5 +1,9 @@
+# Advisors and Readers
+Vinn Campese, Justin Moscarello, Joe LeDoux
+
+
 # Abstract
-<br /> In contrast to appetitive studies, motivation in the aversive domain has not
+In contrast to appetitive studies, motivation in the aversive domain has not
 <br /> been given much attention. Utilizing the Pavlovian to instrumental transfer (PIT) 
 <br /> paradigm, where a Pavlovian conditioned stimulus (CS) that has been paired with 
 <br /> an unconditioned stimulus (US) facilitates instrumental avoidance responses, this 
